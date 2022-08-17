@@ -26,7 +26,7 @@ languages = [Mandarin, Cantonese, English]
 *Computer Science / Information Technology*<br />
 *Geographic Information Science* *[spatial computing, remote sensing]* <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaysLinn&count_private=true&hide=Jupyter%20Notebook&layout=compact&theme=graywhite)
+![Top Langs](https://github-readme-stats-one-sage.vercel.app/api/top-langs/?username=RaysLinn&count_private=true&hide=Jupyter%20Notebook&layout=compact&theme=graywhite)
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaysLinn.visitor-badge) -->
 
