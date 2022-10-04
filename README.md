@@ -22,9 +22,13 @@ programming languages = [Python, HTML, CSS, JavaScript, Java, C#]
 languages = [Mandarin, Cantonese, English]
 ```-->
 
+**Currently focus in frontend, mobile development and GIS**<br />
+
 **University of Auckland => University of Melbourne** <br />
 *Computer Science / Information Technology*<br />
 *Geographic Information Science* *[spatial computing, remote sensing]* <br />
+
+
 
 <!--http://github-readme-stats-rayslinn.vercel.app/-->
 
