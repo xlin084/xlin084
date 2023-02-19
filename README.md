@@ -22,7 +22,7 @@ programming languages = [Python, HTML, CSS, JavaScript, Java, C#]
 languages = [Mandarin, Cantonese, English]
 ```-->
 
-**Currently focus on frontend, mobile development and GIS**<br />
+**Currently focus on frontend development and GIS**<br />
 
 **University of Auckland => University of Melbourne** <br />
 *Computer Science / Information Technology*<br />
