@@ -32,7 +32,9 @@ languages = [Mandarin, Cantonese, English]
 
 <!--http://github-readme-stats-rayslinn.vercel.app/-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaysLinn&count_private=true&hide=Jupyter%20Notebook&layout=compact&theme=graywhite)
+![Top Langs](http://github-readme-stats-rayslinn.vercel.app/api/top-langs/?username=RaysLinn&count_private=true&hide=Jupyter%20Notebook,html,prolog,python&layout=compact&theme=graywhite)
+
+![Top Langs](http://github-readme-stats-rayslinn.vercel.app/api/top-langs/?username=RaysLinn&count_private=true&hide=prolog,javascript,html,java,css,R,C%23&layout=compact&theme=graywhite)
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaysLinn.visitor-badge) -->
 
