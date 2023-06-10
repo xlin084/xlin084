@@ -6,7 +6,7 @@
 
 ---
 
-### Geospatial Intelligence Sensing Lab, University of South Carolina <br />
+#### Geospatial Intelligence Sensing Lab, University of South Carolina <br />
 
 **University of Auckland => University of Melbourne** <br />
 *Computer Science / Information Technology*<br />
