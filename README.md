@@ -4,6 +4,10 @@
 
 **Currently focus on fullstack development and GIS**<br />
 
+---
+
+### Geospatial Intelligence Sensing Lab, University of South Carolina <br />
+
 **University of Auckland => University of Melbourne** <br />
 *Computer Science / Information Technology*<br />
 *Geographic Information Science* *[spatial computing, remote sensing]* <br />
