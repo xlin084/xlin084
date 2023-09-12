@@ -22,4 +22,7 @@
 
 <!-- ![Top Langs](http://github-readme-stats-rayslinn.vercel.app/api/top-langs/?username=RaysLinn&count_private=true&hide=Jupyter%20Notebook,html,prolog,python&layout=compact&theme=graywhite)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=rayslinn&show_icons=ture)
+
 ![Top Langs](http://github-readme-stats-rayslinn.vercel.app/api/top-langs/?username=RaysLinn&count_private=true&hide=prolog,javascript,html,java,css,R,C%23&layout=compact&theme=graywhite) -->
+
