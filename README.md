@@ -2,7 +2,9 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-raymond_lin_xi_zhe-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/raymond_lin_xi_zhe/)](https://www.instagram.com/raymond_lin_xi_zhe/)
 
-**Full-stack development ｜ WebGIS ｜ GeoAI ｜ Urban perception**<br />
+**Spatial Software Engineer**<br />
+
+**SDE ｜ GIS ｜ GeoAI ｜ Urban perception**<br />
 
 ---
 
