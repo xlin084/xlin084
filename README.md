@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Instagram Badge](https://img.shields.io/badge/-raymond_lin_xi_zhe-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/raymond_lin_xi_zhe/)](https://www.instagram.com/raymond_lin_xi_zhe/)
+[![Instagram Badge](https://img.shields.io/badge/-helloworld_lxz-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/helloworld_lxz/)](https://www.instagram.com/helloworld_lxz/)
+
 
 **Spatial Software Engineer**<br />
 
